@@ -2,23 +2,6 @@
 ==========
 
 <p align="center">
-    <a href="https://appcenter.ms">
-        <img src="https://build.appcenter.ms/v0.1/apps/3b570beb-df2c-4506-b374-9c9ffa1f048d/branches/master/badge" alt="MSAppCenter Build status"/>
-    </a>
-    <a href="https://travis-ci.org/SuperMarcus/NineAnimator">
-        <img src="https://travis-ci.org/SuperMarcus/NineAnimator.svg?branch=master" alt="Travis Build status"/>
-    </a>
-    <a href="https://github.com/SuperMarcus/NineAnimator/actions?query=workflow%3A%22Nightly+Build%22">
-        <img src="https://github.com/SuperMarcus/NineAnimator/workflows/Nightly%20Build/badge.svg?branch=master" alt="Nightly Build Status"/>
-    </a>
-    <a href="https://discord.gg/dzTVzeW">
-        <img src="https://img.shields.io/discord/545740643247456267.svg?logo=discord&color=blue" alt="Discord Server"/>
-    </a>
-    <a href="https://www.reddit.com/r/NineAnimator/">
-        <img src="https://img.shields.io/reddit/subreddit-subscribers/NineAnimator?style=social" alt="NineAnimator Subreddit"/>
-    </a>
-</p>
-<p align="center">
     <img src="https://img.shields.io/badge/Swift-5.2-orange.svg" alt="Swift 5.2"/>
     <img src="https://img.shields.io/badge/platform-iOS%20%7C%20macCatalyst-lightgrey" alt="Platform: iOS | macCatalyst"/>
     <a href="https://testflight.apple.com/join/SzIVhF6w">
